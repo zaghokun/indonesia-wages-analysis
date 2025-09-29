@@ -1,0 +1,139 @@
+pendidikan,sektor,gaji_rata,jumlah_data,pendidikan_encoded,"sektor_A Pertanian, Kehutanan dan Perikanan",sektor_B Pertambangan dan Penggalian,sektor_C Industri Pengolahan,sektor_D Pengadaan Listrik dan Gas,"sektor_E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",sektor_F Konstruksi,"sektor_G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",sektor_H Transportasi dan Pergudangan,sektor_I Penyediaan Akomodasi dan Makan Minum,sektor_J Informasi dan Komunikasi,sektor_K Jasa Keuangan dan Asuransi,sektor_L Real Estate,"sektor_M,N Jasa Perusahaan","sektor_O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",sektor_P Jasa Pendidikan,sektor_Q Jasa Kesehatan dan Kegiatan Sosial,"sektor_R,S,T,U Jasa Lainnya",sektor_Total
+Diploma I/II/III/Akademi,"A Pertanian, Kehutanan dan Perikanan",3608079.1950000003,2,6,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,B Pertambangan dan Penggalian,8575163.059999999,2,6,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,C Industri Pengolahan,5550847.055,2,6,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,D Pengadaan Listrik dan Gas,6436468.6,2,6,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",4017014.825,2,6,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,F Konstruksi,6232321.235,2,6,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",4287311.59,2,6,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,H Transportasi dan Pergudangan,7491929.54,2,6,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,I Penyediaan Akomodasi dan Makan Minum,4792302.255,2,6,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,J Informasi dan Komunikasi,5647971.085,2,6,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,K Jasa Keuangan dan Asuransi,5288125.425,2,6,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Diploma I/II/III/Akademi,L Real Estate,5552304.945,2,6,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Diploma I/II/III/Akademi,"M,N Jasa Perusahaan",4833058.055,2,6,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Diploma I/II/III/Akademi,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",3515513.5300000003,2,6,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Diploma I/II/III/Akademi,P Jasa Pendidikan,2246722.72,2,6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Diploma I/II/III/Akademi,Q Jasa Kesehatan dan Kegiatan Sosial,3081000.89,2,6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Diploma I/II/III/Akademi,"R,S,T,U Jasa Lainnya",3071450.1100000003,2,6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Diploma I/II/III/Akademi,Total,4061643.98,2,6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sekolah Dasar,"A Pertanian, Kehutanan dan Perikanan",2076289.335,2,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,B Pertambangan dan Penggalian,2773204.645,2,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,C Industri Pengolahan,1961443.825,2,2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,D Pengadaan Listrik dan Gas,3124909.935,2,2,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",1873511.68,2,2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,F Konstruksi,2617972.7,2,2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",2013218.555,2,2,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,H Transportasi dan Pergudangan,2402832.82,2,2,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,I Penyediaan Akomodasi dan Makan Minum,1665624.74,2,2,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Sekolah Dasar,J Informasi dan Komunikasi,1927157.355,2,2,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Sekolah Dasar,K Jasa Keuangan dan Asuransi,1879486.115,2,2,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Sekolah Dasar,L Real Estate,2073261.9300000002,2,2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sekolah Dasar,"M,N Jasa Perusahaan",2048174.645,2,2,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Sekolah Dasar,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",1599524.3,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Sekolah Dasar,P Jasa Pendidikan,1253627.57,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Sekolah Dasar,Q Jasa Kesehatan dan Kegiatan Sosial,1500562.1400000001,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Sekolah Dasar,"R,S,T,U Jasa Lainnya",1402259.085,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Sekolah Dasar,Total,2056662.4200000002,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sekolah Menegah Pertama,"A Pertanian, Kehutanan dan Perikanan",2360009.34,2,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,B Pertambangan dan Penggalian,3386299.9050000003,2,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,C Industri Pengolahan,2410442.885,2,3,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,D Pengadaan Listrik dan Gas,2736828.87,2,3,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",2084770.6800000002,2,3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,F Konstruksi,2739318.7649999997,2,3,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",2078908.4849999999,2,3,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,H Transportasi dan Pergudangan,2787433.865,2,3,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,I Penyediaan Akomodasi dan Makan Minum,1781397.5,2,3,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,J Informasi dan Komunikasi,2191461.17,2,3,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,K Jasa Keuangan dan Asuransi,2741270.71,2,3,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Sekolah Menegah Pertama,L Real Estate,2525940.0,2,3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sekolah Menegah Pertama,"M,N Jasa Perusahaan",2191432.9850000003,2,3,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Sekolah Menegah Pertama,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",1983674.915,2,3,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Sekolah Menegah Pertama,P Jasa Pendidikan,1346446.905,2,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Sekolah Menegah Pertama,Q Jasa Kesehatan dan Kegiatan Sosial,1655649.31,2,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Sekolah Menegah Pertama,"R,S,T,U Jasa Lainnya",1691496.3,2,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Sekolah Menegah Pertama,Total,2287448.33,2,3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sekolah Menengah Atas (Kejuruan),"A Pertanian, Kehutanan dan Perikanan",2678910.185,2,5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),B Pertambangan dan Penggalian,5793795.465,2,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),C Industri Pengolahan,3357256.705,2,5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),D Pengadaan Listrik dan Gas,3919109.285,2,5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",2676482.81,2,5,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),F Konstruksi,3248655.16,2,5,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",2655054.8,2,5,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),H Transportasi dan Pergudangan,3629139.34,2,5,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),I Penyediaan Akomodasi dan Makan Minum,2429759.36,2,5,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),J Informasi dan Komunikasi,3035691.405,2,5,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),K Jasa Keuangan dan Asuransi,3284688.585,2,5,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),L Real Estate,3897050.16,2,5,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),"M,N Jasa Perusahaan",3104055.625,2,5,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",2964036.645,2,5,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Sekolah Menengah Atas (Kejuruan),P Jasa Pendidikan,1715624.225,2,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Sekolah Menengah Atas (Kejuruan),Q Jasa Kesehatan dan Kegiatan Sosial,2559950.25,2,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Sekolah Menengah Atas (Kejuruan),"R,S,T,U Jasa Lainnya",2398589.305,2,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Sekolah Menengah Atas (Kejuruan),Total,2991784.23,2,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Sekolah Menengah Atas (Umum),"A Pertanian, Kehutanan dan Perikanan",2815857.885,2,4,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),B Pertambangan dan Penggalian,5268208.71,2,4,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),C Industri Pengolahan,3303828.46,2,4,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),D Pengadaan Listrik dan Gas,3768837.99,2,4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",3136414.0300000003,2,4,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),F Konstruksi,3159893.205,2,4,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",2686497.99,2,4,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),H Transportasi dan Pergudangan,3784250.825,2,4,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),I Penyediaan Akomodasi dan Makan Minum,2313722.0949999997,2,4,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),J Informasi dan Komunikasi,2789409.675,2,4,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),K Jasa Keuangan dan Asuransi,3453225.4699999997,2,4,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),L Real Estate,3965728.43,2,4,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sekolah Menengah Atas (Umum),"M,N Jasa Perusahaan",3256556.885,2,4,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Sekolah Menengah Atas (Umum),"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",3241521.48,2,4,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Sekolah Menengah Atas (Umum),P Jasa Pendidikan,1368860.8599999999,2,4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Sekolah Menengah Atas (Umum),Q Jasa Kesehatan dan Kegiatan Sosial,2636656.035,2,4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Sekolah Menengah Atas (Umum),"R,S,T,U Jasa Lainnya",2399276.27,2,4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Sekolah Menengah Atas (Umum),Total,2967764.9050000003,2,4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Tidak/Belum Pernah Sekolah,"A Pertanian, Kehutanan dan Perikanan",1002070.575,2,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,B Pertambangan dan Penggalian,2447391.95,1,0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,C Industri Pengolahan,1121342.41,2,0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,F Konstruksi,2672571.26,2,0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",1332451.355,2,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,H Transportasi dan Pergudangan,1873471.8,2,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,I Penyediaan Akomodasi dan Makan Minum,1159770.605,2,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,"M,N Jasa Perusahaan",913574.36,1,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Tidak/Belum Pernah Sekolah,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",1462399.6400000001,2,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Tidak/Belum Pernah Sekolah,P Jasa Pendidikan,2255257.01,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Tidak/Belum Pernah Sekolah,Q Jasa Kesehatan dan Kegiatan Sosial,1899106.05,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Tidak/Belum Pernah Sekolah,"R,S,T,U Jasa Lainnya",1070539.46,1,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Tidak/Belum Pernah Sekolah,Total,1441320.7650000001,2,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Tidak/Belum Tamat SD,"A Pertanian, Kehutanan dan Perikanan",1785612.97,2,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,B Pertambangan dan Penggalian,2555895.3049999997,2,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,C Industri Pengolahan,1663769.6099999999,2,1,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,D Pengadaan Listrik dan Gas,2487574.76,2,1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",1883435.73,2,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,F Konstruksi,2542098.6550000003,2,1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",1831586.355,2,1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,H Transportasi dan Pergudangan,2052124.195,2,1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,I Penyediaan Akomodasi dan Makan Minum,1495574.7149999999,2,1,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,J Informasi dan Komunikasi,1537055.585,2,1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Tidak/Belum Tamat SD,L Real Estate,2075395.21,2,1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Tidak/Belum Tamat SD,"M,N Jasa Perusahaan",1520101.9249999998,2,1,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Tidak/Belum Tamat SD,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",1313912.7650000001,2,1,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Tidak/Belum Tamat SD,P Jasa Pendidikan,1305664.72,2,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Tidak/Belum Tamat SD,Q Jasa Kesehatan dan Kegiatan Sosial,1515450.9449999998,2,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Tidak/Belum Tamat SD,"R,S,T,U Jasa Lainnya",1323695.915,2,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Tidak/Belum Tamat SD,Total,1813304.27,2,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Universitas,"A Pertanian, Kehutanan dan Perikanan",5308609.835,2,7,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,B Pertambangan dan Penggalian,10492617.649999999,2,7,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,C Industri Pengolahan,7177888.109999999,2,7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,D Pengadaan Listrik dan Gas,9322662.485,2,7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,"E Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",6046235.23,2,7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,F Konstruksi,6843166.075,2,7,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Universitas,"G Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",4588412.045,2,7,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Universitas,H Transportasi dan Pergudangan,7004958.42,2,7,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Universitas,I Penyediaan Akomodasi dan Makan Minum,4207971.42,2,7,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Universitas,J Informasi dan Komunikasi,8464834.995,2,7,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Universitas,K Jasa Keuangan dan Asuransi,7074655.215,2,7,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Universitas,L Real Estate,6905837.395,2,7,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Universitas,"M,N Jasa Perusahaan",7328987.605,2,7,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Universitas,"O Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",5143877.035,2,7,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Universitas,P Jasa Pendidikan,3330487.64,2,7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Universitas,Q Jasa Kesehatan dan Kegiatan Sosial,5043923.6,2,7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Universitas,"R,S,T,U Jasa Lainnya",4841569.984999999,2,7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Universitas,Total,4822979.615,2,7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
